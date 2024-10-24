@@ -1,9 +1,4 @@
-# Linux
 
-Created By: Kakon  
-Created: October 24, 2024 10:47 PM  
-Last Edited Time: October 24, 2024 10:47 PM  
-Last Edited By: Kakon
 
 **Linux is an operating system**
 
@@ -29,7 +24,7 @@ System Calls and Security
 
 The kernel is like a traffic controller that ensures all parts of the system (software and hardware) work together smoothly and efficiently, all while enforcing security and isolation between processes.
 
-**What is shell**
+**What is a shell**
 
 Shell is like an interpreter. The shell in Linux is a powerful tool for interacting with the system, running commands, managing processes, and scripting tasks. It is the layer that users most commonly interact with when they work in a terminal environment.
 
@@ -61,7 +56,7 @@ Machine ID: 834222e46937458a87aabcc36773512c
 
 Boot ID: d80020ec708a49e99f6bcf311c07cd0c
 
-Virtualization: vmware
+Virtualization: VMware
 
 Operating System: CentOS Stream 8
 
